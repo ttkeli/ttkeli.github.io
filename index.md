@@ -2,7 +2,7 @@
 
 欢迎来到我的个人空间！
 
-![ ](images/1.jpg)
+! [ ](images/WechatIMG160.jpeg)
 
 
 ## 个人简介
