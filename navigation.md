@@ -12,16 +12,18 @@
 
 [Album]()
 
-  * [Southeast University](album/2.md)
-  * [Nanjing University](album/3.md)
+  * [Southeast University](album/3.md)
+  * [Nanjing University](album/2.md)
 
   * [Levy Processes](album/levy_processes.md)
   
   
 [Share]()
 
-  * [Movie & Music](share/2.md)
-  
+  * [Movie](share/2.md)
+  * [Music](share/4.md)
+  - - - -
+
   * [Learning](share/3.md)
 
 
