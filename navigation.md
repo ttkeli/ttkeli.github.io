@@ -4,18 +4,15 @@
 
 [Knowing me]()
 
-  * [About family](kenglish/english-formula.md)
+  * [About hometown](english/english-formula.md)
   * [About interesting](english/Phonetic-Phonics.md)
-  - - - -
-  * # Advanced
-  * [Stress and Syllables](english/stress.md)
+
 
 [Album]()
 
   * [Southeast University](album/3.md)
   * [Nanjing University](album/2.md)
 
-  * [Levy Processes](album/levy_processes.md)
   
   
 [Share]()
@@ -23,7 +20,7 @@
   * [Movie](share/2.md)
   * [Music](share/4.md)
   - - - -
-
+  * # Advanced
   * [Learning](share/3.md)
 
 
