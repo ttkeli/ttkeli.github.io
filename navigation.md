@@ -4,8 +4,8 @@
 
 [Knowing me]()
 
-  * [About hometown](english/english-formula.md)
-  * [About interesting](english/Phonetic-Phonics.md)
+  * [About hometown](knowing/1.md)
+  * [About interesting](knowing/2.md)
 
 
 [Album]()
