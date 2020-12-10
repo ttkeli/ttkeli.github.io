@@ -2,25 +2,28 @@
 
 [About](index.md)
 
-[English]()
+[Knowing me]()
 
-  * [A Thought on English](english/english-formula.md)
-  * [Phonetic Phonics](english/Phonetic-Phonics.md)
+  * [About family](kenglish/english-formula.md)
+  * [About interesting](english/Phonetic-Phonics.md)
   - - - -
   * # Advanced
   * [Stress and Syllables](english/stress.md)
 
-[Math]()
-
-  * [Levy Processes](math/levy_processes.md)
-  
-  
 [Album]()
 
   * [Southeast University](album/2.md)
   * [Nanjing University](album/3.md)
 
-[Coding](coding/PythonNote.md)
+  * [Levy Processes](album/levy_processes.md)
+  
+  
+[Share]()
+
+  * [Movie & Music](share/2.md)
+  
+  * [Learning](share/3.md)
+
 
 [Connecting me](connecting/1.md)
 
