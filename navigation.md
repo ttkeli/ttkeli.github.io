@@ -15,11 +15,13 @@
   * [Levy Processes](math/levy_processes.md)
   
   
-[Homework]()
+[Album]()
 
   * [基金定投](homework/levy_processes.md)
 
 [Coding](coding/PythonNote.md)
+
+[Connecting me](connecting/1.md)
 
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
