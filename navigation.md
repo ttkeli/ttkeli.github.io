@@ -17,7 +17,8 @@
   
 [Album]()
 
-  * [基金定投](homework/levy_processes.md)
+  * [Southeast University](album/2.md)
+  * [Nanjing University](album/3.md)
 
 [Coding](coding/PythonNote.md)
 
