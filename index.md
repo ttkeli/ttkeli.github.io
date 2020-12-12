@@ -1,22 +1,21 @@
 # About
 
-欢迎来到我的个人空间！
-这里是一个作业文档
-
-![](images/WechatIMG160.jpg) 
+欢迎大家!
 
 
-这个渣渣什么信息都没有留下哦!
 
 ## 个人简介
-
+![](images/WechatIMG160.jpg) 
 I AM a zhazha !
 
-## 研究兴趣
+## 家庭成员
+![](images/1.jpg) 
 
-## 论文发表
+![](images/2.jpg) 
 
+## 兴趣爱好
 
+![](images/3.jpg)
 
 
 Note: 这是一个作业演示文档, 内涵文字和图片部分来源于网络,若有侵权请联系本人删除!
