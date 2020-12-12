@@ -6,6 +6,7 @@
 
 ## 个人简介
 ![](images/WechatIMG160.jpg) 
+
 I AM a zhazha !
 
 ## 家庭成员
