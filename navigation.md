@@ -8,7 +8,7 @@
   * [About interesting](knowing/2.md)
 
 
-[Album]()
+[Education]()
 
   * [Southeast University](album/3.md)
   * [Nanjing University](album/2.md)
